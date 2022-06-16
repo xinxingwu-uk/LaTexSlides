@@ -1,0 +1,8 @@
+\frametitle{Motivation}
+\begin{itemize}
+\setbeamertemplate{items}[ball]
+\item Dealing with high-dimensional data is challenging due to the known phenomenon -- the curse of dimensionality~\citep{Bellman}.
+\item Feature selection allows for ready interpretability with the input features, by identifying and retaining a subset of important features directly from the original feature space~\citep{Guyon}.
+\item Existing unsupervised approaches have limited abilities to simultaneously explore the large search space for features that can represent the overall contents and take into account the diversity, which is reflected by the inter-correlation of features, thus leading to suboptimal performances \frownie
+\end{itemize}
+

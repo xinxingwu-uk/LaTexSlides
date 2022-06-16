@@ -1,0 +1,4 @@
+\beamer@sectionintoc {2}{Motivation}{2}{0}{1}
+\beamer@sectionintoc {3}{Proposed Approach}{4}{0}{2}
+\beamer@sectionintoc {4}{Results}{6}{0}{3}
+\beamer@sectionintoc {5}{Conclusions}{8}{0}{4}
