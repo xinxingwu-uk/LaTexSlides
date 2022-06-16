@@ -1,6 +1,6 @@
 # A Beautiful LaTex Slides Template
 
-<img src="[url](https://github.com/xinxingwu-uk/LaTexSlides/blob/main/Figures/a.png)" alt="some_text">
+<img src="https://github.com/xinxingwu-uk/LaTexSlides/blob/main/Figures/a.png" alt=" ">
 
 
 ![avatar]([[http://baidu.com/pic/doge.png](https://github.com/xinxingwu-uk/LaTexSlides/blob/main/Figures/a.png)]
