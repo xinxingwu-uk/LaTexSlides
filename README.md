@@ -1,1 +1,1 @@
-# LaTexSlides
+# A Beautiful LaTex Slides Template
